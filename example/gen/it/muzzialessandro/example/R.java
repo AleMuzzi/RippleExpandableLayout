@@ -558,7 +558,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_bgColor=0x7f010087;
+        public static final int rpRxp_bgColor=0x7f01007d;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -566,11 +566,11 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_bold=0x7f010084;
+        public static final int rpRxp_bold=0x7f01007a;
         /** <p>Must be a reference to another resource, in the form "<code>@[+][<i>package</i>:]<i>type</i>:<i>name</i></code>"
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
          */
-        public static final int rpRxp_imgSrc=0x7f010088;
+        public static final int rpRxp_imgSrc=0x7f01007e;
         /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -578,7 +578,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_italic=0x7f010085;
+        public static final int rpRxp_italic=0x7f01007b;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -588,7 +588,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_layout_height=0x7f01008a;
+        public static final int rpRxp_layout_height=0x7f010080;
         /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
 Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
 in (inches), mm (millimeters).
@@ -598,7 +598,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_layout_width=0x7f010089;
+        public static final int rpRxp_layout_width=0x7f01007f;
         /**          Dedicate al Ripple Expandable Layout 
          <p>Must be a string value, using '\\;' to escape characters such as '\\n' or '\\uxxxx' for a unicode character.
 <p>This may also be a reference to a resource (in the form
@@ -607,7 +607,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_text=0x7f010082;
+        public static final int rpRxp_text=0x7f010078;
         /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
 "<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
 <p>This may also be a reference to a resource (in the form
@@ -616,7 +616,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_textColor=0x7f010086;
+        public static final int rpRxp_textColor=0x7f01007c;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -624,95 +624,7 @@ theme attribute (in the form
 "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
 containing a value of this type.
          */
-        public static final int rpRxp_textSize=0x7f010083;
-        /**          Dedicate al ripple 
-         <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_alpha=0x7f010078;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_centered=0x7f01007d;
-        /** <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_color=0x7f01007c;
-        /** <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_framerate=0x7f010079;
-        /** <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_rippleDuration=0x7f01007a;
-        /** <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_ripplePadding=0x7f01007f;
-        /** <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>simpleRipple</code></td><td>0</td><td></td></tr>
-<tr><td><code>doubleRipple</code></td><td>1</td><td></td></tr>
-<tr><td><code>rectangle</code></td><td>2</td><td></td></tr>
-</table>
-         */
-        public static final int rp_type=0x7f01007e;
-        /** <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_zoom=0x7f010080;
-        /** <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_zoomDuration=0x7f01007b;
-        /** <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-         */
-        public static final int rp_zoomScale=0x7f010081;
+        public static final int rpRxp_textSize=0x7f010079;
         /** <p>Must be an integer value, such as "<code>100</code>".
 <p>This may also be a reference to a resource (in the form
 "<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
@@ -2978,16 +2890,6 @@ containing a value of this type.
            <tr><td><code>{@link #RippleExpLayout_rpRxp_text it.muzzialessandro.example:rpRxp_text}</code></td><td>         Dedicate al Ripple Expandable Layout </td></tr>
            <tr><td><code>{@link #RippleExpLayout_rpRxp_textColor it.muzzialessandro.example:rpRxp_textColor}</code></td><td></td></tr>
            <tr><td><code>{@link #RippleExpLayout_rpRxp_textSize it.muzzialessandro.example:rpRxp_textSize}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_alpha it.muzzialessandro.example:rp_alpha}</code></td><td>         Dedicate al ripple </td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_centered it.muzzialessandro.example:rp_centered}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_color it.muzzialessandro.example:rp_color}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_framerate it.muzzialessandro.example:rp_framerate}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_rippleDuration it.muzzialessandro.example:rp_rippleDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_ripplePadding it.muzzialessandro.example:rp_ripplePadding}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_type it.muzzialessandro.example:rp_type}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_zoom it.muzzialessandro.example:rp_zoom}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_zoomDuration it.muzzialessandro.example:rp_zoomDuration}</code></td><td></td></tr>
-           <tr><td><code>{@link #RippleExpLayout_rp_zoomScale it.muzzialessandro.example:rp_zoomScale}</code></td><td></td></tr>
            </table>
            @see #RippleExpLayout_rpRxp_bgColor
            @see #RippleExpLayout_rpRxp_bold
@@ -2998,23 +2900,11 @@ containing a value of this type.
            @see #RippleExpLayout_rpRxp_text
            @see #RippleExpLayout_rpRxp_textColor
            @see #RippleExpLayout_rpRxp_textSize
-           @see #RippleExpLayout_rp_alpha
-           @see #RippleExpLayout_rp_centered
-           @see #RippleExpLayout_rp_color
-           @see #RippleExpLayout_rp_framerate
-           @see #RippleExpLayout_rp_rippleDuration
-           @see #RippleExpLayout_rp_ripplePadding
-           @see #RippleExpLayout_rp_type
-           @see #RippleExpLayout_rp_zoom
-           @see #RippleExpLayout_rp_zoomDuration
-           @see #RippleExpLayout_rp_zoomScale
          */
         public static final int[] RippleExpLayout = {
             0x7f010078, 0x7f010079, 0x7f01007a, 0x7f01007b,
             0x7f01007c, 0x7f01007d, 0x7f01007e, 0x7f01007f,
-            0x7f010080, 0x7f010081, 0x7f010082, 0x7f010083,
-            0x7f010084, 0x7f010085, 0x7f010086, 0x7f010087,
-            0x7f010088, 0x7f010089, 0x7f01008a
+            0x7f010080
         };
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_bgColor}
@@ -3030,7 +2920,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_bgColor
         */
-        public static final int RippleExpLayout_rpRxp_bgColor = 15;
+        public static final int RippleExpLayout_rpRxp_bgColor = 5;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_bold}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3044,7 +2934,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_bold
         */
-        public static final int RippleExpLayout_rpRxp_bold = 12;
+        public static final int RippleExpLayout_rpRxp_bold = 2;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_imgSrc}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3054,7 +2944,7 @@ containing a value of this type.
 or to a theme attribute in the form "<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>".
           @attr name it.muzzialessandro.example:rpRxp_imgSrc
         */
-        public static final int RippleExpLayout_rpRxp_imgSrc = 16;
+        public static final int RippleExpLayout_rpRxp_imgSrc = 6;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_italic}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3068,7 +2958,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_italic
         */
-        public static final int RippleExpLayout_rpRxp_italic = 13;
+        public static final int RippleExpLayout_rpRxp_italic = 3;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_layout_height}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3084,7 +2974,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_layout_height
         */
-        public static final int RippleExpLayout_rpRxp_layout_height = 18;
+        public static final int RippleExpLayout_rpRxp_layout_height = 8;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_layout_width}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3100,7 +2990,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_layout_width
         */
-        public static final int RippleExpLayout_rpRxp_layout_width = 17;
+        public static final int RippleExpLayout_rpRxp_layout_width = 7;
         /**
           <p>
           @attr description
@@ -3116,7 +3006,7 @@ containing a value of this type.
           <p>This is a private symbol.
           @attr name it.muzzialessandro.example:rpRxp_text
         */
-        public static final int RippleExpLayout_rpRxp_text = 10;
+        public static final int RippleExpLayout_rpRxp_text = 0;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_textColor}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3131,7 +3021,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_textColor
         */
-        public static final int RippleExpLayout_rpRxp_textColor = 14;
+        public static final int RippleExpLayout_rpRxp_textColor = 4;
         /**
           <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rpRxp_textSize}
           attribute's value can be found in the {@link #RippleExpLayout} array.
@@ -3145,156 +3035,7 @@ theme attribute (in the form
 containing a value of this type.
           @attr name it.muzzialessandro.example:rpRxp_textSize
         */
-        public static final int RippleExpLayout_rpRxp_textSize = 11;
-        /**
-          <p>
-          @attr description
-                   Dedicate al ripple 
-
-
-          <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          <p>This is a private symbol.
-          @attr name it.muzzialessandro.example:rp_alpha
-        */
-        public static final int RippleExpLayout_rp_alpha = 0;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_centered}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_centered
-        */
-        public static final int RippleExpLayout_rp_centered = 5;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_color}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be a color value, in the form of "<code>#<i>rgb</i></code>", "<code>#<i>argb</i></code>",
-"<code>#<i>rrggbb</i></code>", or "<code>#<i>aarrggbb</i></code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_color
-        */
-        public static final int RippleExpLayout_rp_color = 4;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_framerate}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_framerate
-        */
-        public static final int RippleExpLayout_rp_framerate = 1;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_rippleDuration}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_rippleDuration
-        */
-        public static final int RippleExpLayout_rp_rippleDuration = 2;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_ripplePadding}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be a dimension value, which is a floating point number appended with a unit such as "<code>14.5sp</code>".
-Available units are: px (pixels), dp (density-independent pixels), sp (scaled pixels based on preferred font size),
-in (inches), mm (millimeters).
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_ripplePadding
-        */
-        public static final int RippleExpLayout_rp_ripplePadding = 7;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_type}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be one of the following constant values.</p>
-<table>
-<colgroup align="left" />
-<colgroup align="left" />
-<colgroup align="left" />
-<tr><th>Constant</th><th>Value</th><th>Description</th></tr>
-<tr><td><code>simpleRipple</code></td><td>0</td><td></td></tr>
-<tr><td><code>doubleRipple</code></td><td>1</td><td></td></tr>
-<tr><td><code>rectangle</code></td><td>2</td><td></td></tr>
-</table>
-          @attr name it.muzzialessandro.example:rp_type
-        */
-        public static final int RippleExpLayout_rp_type = 6;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_zoom}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be a boolean value, either "<code>true</code>" or "<code>false</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_zoom
-        */
-        public static final int RippleExpLayout_rp_zoom = 8;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_zoomDuration}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be an integer value, such as "<code>100</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_zoomDuration
-        */
-        public static final int RippleExpLayout_rp_zoomDuration = 3;
-        /**
-          <p>This symbol is the offset where the {@link it.muzzialessandro.example.R.attr#rp_zoomScale}
-          attribute's value can be found in the {@link #RippleExpLayout} array.
-
-
-          <p>Must be a floating point value, such as "<code>1.2</code>".
-<p>This may also be a reference to a resource (in the form
-"<code>@[<i>package</i>:]<i>type</i>:<i>name</i></code>") or
-theme attribute (in the form
-"<code>?[<i>package</i>:][<i>type</i>:]<i>name</i></code>")
-containing a value of this type.
-          @attr name it.muzzialessandro.example:rp_zoomScale
-        */
-        public static final int RippleExpLayout_rp_zoomScale = 9;
+        public static final int RippleExpLayout_rpRxp_textSize = 1;
         /** Attributes that can be used with a RippleView.
            <p>Includes the following attributes:</p>
            <table>
