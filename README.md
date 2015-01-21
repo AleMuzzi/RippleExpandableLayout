@@ -1,3 +1,4 @@
+![AM_Logo](https://github.com/AleBestia/RippleExpandableLayout/blob/master/AM Bestia Creation.png)
 # RippleExpandableLayout
 ##An expandable (curtain like) layout openable with a beauty ripple button
 
@@ -5,6 +6,8 @@
 Here's a little preview of what RippleExpandableLayout is
 
 ![RippleExpandableLayout](https://github.com/AleBestia/RippleExpandableLayout/blob/master/rippleExpLayout_preview.gif)
+
+On [this link](https://github.com/AleBestia/RippleExpandableLayout/tree/master/RippleExpandableLayout) you can find the library and on [this other one](https://github.com/AleBestia/RippleExpandableLayout/tree/master/example) the example project.
 
 Here's how to declare a RippleExpandableLayout object
 ``` xml
