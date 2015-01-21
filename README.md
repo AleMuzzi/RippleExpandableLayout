@@ -2,14 +2,9 @@
 ##An expandable (curtain like) layout openable with a beauty ripple button
 
 
-This is the closed layout
+Here's a little preview of what RippleExpandableLayout is
 
-![RippleEffect](https://github.com/AleBestia/RippleExpandableLayout/blob/master/img_closed.png)
-
-And then the opened layout
-
-![RippleEffect](https://github.com/AleBestia/RippleExpandableLayout/blob/master/img_opened.png)
-
+![RippleExpandableLayout](https://github.com/AleBestia/RippleExpandableLayout/blob/master/rippleExpandableLayout_preview.gif)
 
 Here's how to declare a RippleExpandableLayout object
 ``` xml
