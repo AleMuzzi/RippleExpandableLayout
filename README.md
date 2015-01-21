@@ -4,7 +4,7 @@
 
 Here's a little preview of what RippleExpandableLayout is
 
-![RippleExpandableLayout](https://github.com/AleBestia/RippleExpandableLayout/blob/master/rippleExpandableLayout_preview.gif)
+![RippleExpandableLayout](https://github.com/AleBestia/RippleExpandableLayout/blob/master/rippleExpLayout_preview.gif)
 
 Here's how to declare a RippleExpandableLayout object
 ``` xml
