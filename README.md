@@ -1,4 +1,4 @@
-![AM_Logo](https://github.com/AleBestia/RippleExpandableLayout/blob/master/AM Bestia Creation.png)
+![AM_Logo](https://github.com/AleBestia/RippleExpandableLayout/blob/master/AM%20Bestia%20Creation.png)
 # RippleExpandableLayout
 ##An expandable (curtain like) layout openable with a beauty ripple button
 
